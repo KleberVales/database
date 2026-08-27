@@ -1,4 +1,5 @@
 # database
 
-## What is database
-## Database Structure
+## 1. What is database
+
+## 2. Database Structure
