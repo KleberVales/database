@@ -6,4 +6,4 @@
 
 ## 3. SQL
 
-## 3. PostgreSQL
+## 4. PostgreSQL
